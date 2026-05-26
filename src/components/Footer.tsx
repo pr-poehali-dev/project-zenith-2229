@@ -29,9 +29,9 @@ export default function Footer() {
               </div>
               <div className="flex flex-col gap-1 sm:gap-2">
                 <h3 className="mb-1 sm:mb-2 uppercase text-neutral-400 text-xs sm:text-sm tracking-widest">Контакты</h3>
-                <p className="text-neutral-300 text-sm sm:text-base">Республика Крым</p>
-                <p className="text-neutral-300 text-sm sm:text-base">info@методцентр.рф</p>
-                <p className="text-neutral-300 text-sm sm:text-base">+7 (3652) 000-000</p>
+                <p className="text-neutral-300 text-sm sm:text-base">295001, Российская Федерация,</p>
+                <p className="text-neutral-300 text-sm sm:text-base">Республика Крым, г. Симферополь,</p>
+                <p className="text-neutral-300 text-sm sm:text-base">ул. Ленина, д. 15</p>
               </div>
             </div>
             <div className="flex flex-col sm:flex-row justify-between items-start sm:items-end gap-4 sm:gap-0">
