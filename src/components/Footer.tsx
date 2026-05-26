@@ -36,9 +36,9 @@ export default function Footer() {
             </div>
             <div className="flex flex-col sm:flex-row justify-between items-start sm:items-end gap-4 sm:gap-0">
               <h1 className="text-[10vw] sm:text-[9vw] lg:text-[7vw] leading-[0.85] mt-4 sm:mt-6 lg:mt-10 text-white font-bold tracking-tight uppercase">
-                Методический<br />центр
+                ГБОУ ДПО РК<br />КРИППО
               </h1>
-              <p className="text-neutral-400 text-sm sm:text-base">{new Date().getFullYear()} © Методический центр Крым</p>
+              <p className="text-neutral-400 text-sm sm:text-base">{new Date().getFullYear()} © ГБОУ ДПО РК КРИППО</p>
             </div>
           </div>
         </div>
