@@ -28,7 +28,7 @@ export default function Hero() {
       <div className="absolute inset-0 bg-black/40" />
       <div className="relative z-10 text-center text-white px-4">
         <h1 className="text-4xl md:text-6xl lg:text-8xl font-bold tracking-tight mb-6 uppercase leading-tight">
-          Образование.<br />Развитие.<br />Крым.
+          Сайт учителей биологии Республики Крым
         </h1>
         <p className="text-base md:text-xl max-w-2xl mx-auto px-6 opacity-90 leading-relaxed">
           Методические материалы, программы повышения квалификации и актуальные документы для педагогов Республики Крым
