@@ -1,4 +1,5 @@
 {
+  "letters-delete": "https://functions.poehali.dev/59bf6102-18bb-4216-ace8-871cae4888ac",
   "letters-add": "https://functions.poehali.dev/222a1d1a-077d-4bd4-94e4-977a8c3fd58f",
   "letters-list": "https://functions.poehali.dev/db9e6bb0-1aef-4188-87f8-00093f47009a",
   "letters-upload": "https://functions.poehali.dev/b8e583d6-4eca-4209-a1a3-6e523beb71b8"
