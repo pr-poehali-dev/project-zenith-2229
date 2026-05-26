@@ -19,19 +19,26 @@ export default function Hero() {
         className="absolute inset-0 w-full h-full"
       >
         <img
-          src="/images/mountain-landscape.jpg"
-          alt="Mountain landscape"
+          src="https://cdn.poehali.dev/projects/2358cb3e-9c7a-45cb-a238-54c2aaeb94c6/files/c60963d4-020b-443c-9778-147968ccd8ef.jpg"
+          alt="Крым — природа и море"
           className="w-full h-full object-cover"
         />
       </motion.div>
 
-      <div className="relative z-10 text-center text-white">
-        <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight mb-6">
-          ОТКРОЙ
+      <div className="absolute inset-0 bg-black/40" />
+      <div className="relative z-10 text-center text-white px-4">
+        <h1 className="text-4xl md:text-6xl lg:text-8xl font-bold tracking-tight mb-6 uppercase leading-tight">
+          Образование.<br />Развитие.<br />Крым.
         </h1>
-        <p className="text-lg md:text-xl max-w-2xl mx-auto px-6 opacity-90">
-          Исследуй границы дизайна с иммерсивным параллакс-эффектом
+        <p className="text-base md:text-xl max-w-2xl mx-auto px-6 opacity-90 leading-relaxed">
+          Методические материалы, программы повышения квалификации и актуальные документы для педагогов Республики Крым
         </p>
+        <a
+          href="#materials"
+          className="inline-block mt-8 border border-white text-white px-8 py-3 uppercase text-sm tracking-widest hover:bg-white hover:text-black transition-all duration-300"
+        >
+          Перейти к материалам
+        </a>
       </div>
     </div>
   );
